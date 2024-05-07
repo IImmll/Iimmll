@@ -51,11 +51,7 @@ Machine Learning Basics and Version Control: Gained an introductory understandin
 
 ## Connect with Me ☕
 
-[![LinkedIn][1.2]][1]
-
-
-
-[1]: (http://linkedin.com/in/immanuel-e-104196114)
+LinkedIn : http://linkedin.com/in/immanuel-e-104196114
 
 
 ---
