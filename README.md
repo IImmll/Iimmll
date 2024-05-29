@@ -1,51 +1,55 @@
-# Hello, I'm Emmanuel👋
+# Welcome to My GitHub Profile!
 
-## About Me 📖
+👋 Hi, I'm a creative and detail-oriented professional chef transitioning into the data analytics field. With a robust background in computer science and extensive experience in high-paced culinary environments, I am eager to leverage my analytical and problem-solving skills in data analysis roles.
 
-Creative and detail-oriented professional chef with 5 years of experience in data analytics and 4 years of experience in a high-paced culinary environment. Currently looking to leverage my strong analytical and problem solving skills in the data analyst field.
+## 🎓 Education
+
+- **2024** - Fundamental Data Science Bootcamp, HyperionDev
+- **2020** - PhD in Computer Science, University of Bedfordshire
+- **2015** - MSc in Computer Science, University of Bedfordshire
+
+## 💼 Professional Experience
+
+### HyperionDev - Data Science Bootcamp (2024)
+- **Programming Fundamentals**: Gained proficiency in Python and essential programming concepts. Conducted A/B Testing to compare model performances in experiments.
+- **Statistical Analysis**: Developed skills in both descriptive and inferential statistics to analyze and interpret complex datasets.
+- **Data Manipulation and Cleaning**: Mastered EDA, ETL, and data wrangling using Python's Pandas library to prepare data for analysis.
+- **Data Visualization**: Created both basic and complex visualizations with Matplotlib to convey data insights visually.
+- **Machine Learning & Version Control**: Explored machine learning techniques (regression, clustering, classification) and used GitHub for version control.
+
+### Restaurant Associates - Bloomberg, Chef de Partie (2021-Present)
+- Managed and executed the preparation and serving of meals for a staff of 3,000, maintaining high-quality standards and timeliness.
+- Ensured strict adherence to recipes and meal standards, optimized inventory levels, and reduced waste.
+
+### PhD Research Thesis on Predictive Algorithm Framework (PAF and GCALC) - (2020)
+- Investigated the impact of lifestyle activities on complex disease treatments using SQL for data management and analysis.
+- Applied associative data mining techniques to identify correlations in large data sets, using Python for advanced probability calculations.
+
+## 🛠 Skills
+
+### Machine Learning
+- **Languages**: Python, SQL
+- **Frameworks**: Anaconda
+- **Techniques**: Supervised and Unsupervised Learning, Natural Language Processing with SpaCy
+
+### Data Mining
+- **Techniques**: EDA, ETL, A/B and Multivariate Testing, Regression Analysis, Classification, Clustering, Pattern Recognition
+
+### Tools
+- **Data Analysis**: Jupyter Notebook, SQL Querying
+- **Visualization**: Tableau, PowerBI
+- **Other**: Microsoft Excel, Google Sheets
+
+## 🌟 Non-Technical Skills
+
+- **Problem Solving Under Pressure**: Expertise in managing high-pressure environments, directly applicable to resolving data discrepancies and technical issues in data analytics.
+- **Attention to Detail**: Precision in culinary arts translates into meticulous data cleaning, exploration, and detailed reporting in analytics.
+- **Time Management and Scheduling**: Proven ability to manage and prioritize multiple projects, crucial for meeting deadlines and managing data projects effectively.
+- **Communication**: Strong communicator with a history of presenting complex data clearly to diverse audiences.
 
 ---
 
-## Technologies & Tools 🛠️
-
-- **Languages**: Python
-- **Frameworks**: Django
-- **Tools**: Jupyter Notebook, Tableau, Power BI
-- **Databases**: MySQL
-- **Data Analysis**: Pandas Libraries
-
----
-
-## Projects 🌟
-
-Here are some of the projects I've worked on:
-
-### Research (Predictive Algorithm Framework (PAF)) :
-The research focused on how comorbidities, the core health condition and our daily lifestyle activities could affect complex disease treatment.
-Associative Data Mining techniques : These were used for finding associations or correlations between the large sets of data items. Item set lattices and “Apriori” were some of the algorithms used to explore the dataset for both risk factor selection and combinations. The “apyori” library in pandas was used for this and based on the results of the algorithm python was then used to create the script of the prediction algorithm.
-Probability pooling by weighted averages : This technique was used to aggregate the found probabilities.
-Python : Used python to create a script called GCALC for predicting both preventive and permissive probabilities of prostate cancer occurrence based on the discovered insights.
-
-
-### Bootcamp Project, HyperionDev :
-Programming Fundamentals : Learnt the basics of programming languages like Python, essential for all subsequent data analysis tasks.
-Statistical Analysis : Learnt the fundamental statistics, including descriptive and inferential statistics, to analyse and interpret data effectively.
-Data Manipulation and Cleaning : Acquired skills in data wrangling using libraries like pandas in Python to prepare data for analysis.
-Data Visualisation : Learnt to create basic visualisations with tools like matplotlib in Python to communicate data insights visually.
-Machine Learning Basics and Version Control: Gained an introductory understanding of machine learning techniques such as linear regression and k-means clustering and version control with GitHub.
-
-
----
-
-## Achievements 🏆
-
-- Publications :
-1. Emmanuel Effiok, Enjie Liu, and Hong Qing Yu, ‘A Prostate Cancer Care Process Example of Using Data from Internet of Things’, Proceeding of 2015 IEEE International Conference on Computer and Information Technology; Ubiquitous Computing and Communications; Dependable, Autonomic and Secure Computing; Pervasive Intelligence and Computing, UK, 2015
-2. Emmanuel Effiok , Enjie Liu, Jon Hitchcock, “Life Style Related Risk Association Mining”, 2018 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC), Dec., 2018
-3. Emmanuel Effiok, Enjie Liu, Jon Hitchcock “Lifestyle Risk Association Aggregation”, IEEE proceeding of the Fifth IEEE International Workshop on Internet of Things: Networking Applications and Technologies, June 2019
-4. Emmanuel Effiok, Enjie Liu, Jon Hitchcock, “Cumulative Effect of Lifestyle Risk Factors for Complex Disease Prediction using the RPF framework”
-5. Enjie Liu, Jon Hitchcock, Emmanuel Effiok, “Healthcare applications in the new 5G era”, IET communications
-6. Emmanuel Effiok, Enjie Liu, Jon Hitchcock, “Cumulative Effect of Lifestyle Risk Factors for Complex Disease Prediction using the RPF framework”, submitted to “Health Informatics Journal” published by Sage
+I'm currently open to opportunities where I can bring my unique background and skills to solve challenging problems in the world of data analytics. Feel free to reach out if you have questions or opportunities that align with my expertise!
 
 ---
 
@@ -56,7 +60,7 @@ LinkedIn : http://linkedin.com/in/immanuel-e-104196114
 
 ---
 
-## Random Facts 
+## Random Fact 
 
-- I enjoy challenging tasks.
+- I enjoy learning new things.
 
